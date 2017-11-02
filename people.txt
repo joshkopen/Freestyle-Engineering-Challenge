@@ -1,0 +1,12 @@
+Bob
+coke,pepsi,water
+burger,hotdog
+Jim
+water,pepsi
+salad
+Stacy
+water
+salad,hotdog
+Bruce
+coke,pepsi,fanta
+cheeseburger,burger,hotdog

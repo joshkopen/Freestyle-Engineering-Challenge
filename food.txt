@@ -1,0 +1,4 @@
+burger:3
+hotdog:2
+cheeseburger:3.5
+salad:4

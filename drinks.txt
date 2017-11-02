@@ -1,0 +1,4 @@
+coke:1
+pepsi:1.5
+fanta:2
+water:0.5
