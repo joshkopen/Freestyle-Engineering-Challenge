@@ -2,7 +2,7 @@
 
 Test cases in test cases folder, with test case #1 already stored in the base folder. The text and settings file must be in the same folder as the main.py in order to run properly.
 
-Link to github of project:
+Link to github of project: https://github.com/joshkopen/Freestyle-Engineering-Challenge
 
 
 ## Algorithm Explanation:
